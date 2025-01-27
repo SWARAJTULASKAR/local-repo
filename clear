@@ -1,0 +1,13 @@
+[1mdiff --git a/inedx.html b/inedx.html[m
+[1mindex 9c227b8..970417c 100644[m
+[1m--- a/inedx.html[m
+[1m+++ b/inedx.html[m
+[36m@@ -1,4 +1,5 @@[m
+ <p>[m
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eum reiciendis eos iusto non. Eveniet similique quisquam laboriosam dolorum tenetur corrupti quam officiis ipsum blanditiis.[m
+ asdsafbjfksabfjbsakjfbajksbfkjabkjf[m
+[31m-</p>[m
+\ No newline at end of file[m
+[32m+[m[32m</p>[m
+[32m+[m[32m<p>adsfasdfggdsfdfsdf</p>[m
+\ No newline at end of file[m
